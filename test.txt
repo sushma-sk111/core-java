@@ -1,0 +1,147 @@
+1. Java is a high-level programming language used to develop applications 
+   it is platform indepented becuse wora(write once run anywhere) write once and run any platform 
+    java is not pure object oriented  programming language becuse it access the primitve datatypes 
+       java and javac tools  
+
+2. JDK: java development kit :jdk is used fot write code and run the code 
+    
+   JRE: java runtime environment : jre used to run the program
+    
+   JVM: java virtual machine : execute the byte code and it is platform dependent 
+
+3. .java : is a source code  
+   .class: source code converted to byte code becuse jvm cannot understand the source code 
+            jvm understand only byte code 
+            
+
+4. 
+
+
+
+5. Variables :  store the values
+    
+    class level variables : static variables and non-static variables 
+   
+    method level variables: local variables ,instance variables
+
+     static variable : variavbles within the class level 
+        
+     local variables : variables within the block of method or scope of the method
+
+     instance variables : variable out of the method
+
+     example : class Book{
+                  
+                     static String name;
+                       
+
+
+                      void main(String[] srgs)
+                      {
+                         
+                          String name;
+
+                      }
+
+6. Object-Oriented programming language: it means  using real world entities 
+
+7.  Output: Error 
+
+8. Datatypes : it Store the values primitive : int,byte,char etc  ,non-primitive:class object
+
+
+     types : int ,String ,double,float,long 
+       
+      example:  
+       
+
+
+       class student{
+                  
+                     String name;
+                      int idno;
+                      long mobileno;
+                       
+                    }
+   
+10.  java features:  Abstraction 
+                     Polymarphism
+                     Encapsulation
+                     Inheritence
+
+
+11. Array : Array single variable have multiple values is known as array
+
+     Syntax : String[]
+
+example :  class Student{
+                           String[] name={"sush","raksh"};
+                             
+                            int[]  idno={"111","112"};
+                             long[] mobileno={"9187261567","9288276312"};
+                         }
+9. Dot operator : used to access the variables and methods
+   example: class student{
+                          public static void main(String[] args){
+                          
+                           System.out.println("student name:"+name);
+                       }
+                     }
+ 
+12. class : is a keyword ,java is english language jvm cannot understand so converted to byte code jvm can understnd the class 
+                class decalre the object and its properties
+    object : is a real world entity or things
+
+      example:  class Laptop{
+                  
+                   }    
+
+
+13.keywords : int,double,String ,char,float,long,short,boolean,byte ,for
+
+       example : class student{
+                                int idno;
+                                double percentage;
+                                 String name;
+                                 char  section;
+                                 float cgpa;
+                                  long mobileno;
+                                 short ranking;
+                                  boolean pass;
+                                  byte pincode;
+                                  
+                                 for (int i=0;i<10;i++)
+                                 {
+                                     System.out.println("idno[i]");
+                                   }
+                                  
+                               }
+
+14. Constructor : constructor same as class name ,it start from new keyword ,it dont have returentype ,intilize the instance variables
+
+          types : defalut constructor ,parameter constructor
+
+15.bescuse non-access specifier static so that JVM can load the class into the main memory
+   method types : return type,paramete type
+
+16.
+        class array{
+
+                     public static void main(String[] args)
+                     {
+                      int[] numbers={12,3,2,45,6,7,6};
+                       
+            
+                          
+                       
+                       
+                          System.out.println(numbers.length);
+                       
+                       
+                     }
+                   } 
+17.
+ 
+
+
+ 
