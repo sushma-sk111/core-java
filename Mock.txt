@@ -1,0 +1,52 @@
+1.  class Prime
+   {
+     int number = 5;
+
+      public static void main (String[] args)
+     {
+
+       number num=new number();
+      if(num)
+{
+ 
+      System.out.println("given number is prime");
+     }
+      else
+{
+     System.out.println("given number is not prime");
+
+   }
+   }
+}
+
+2. String[] students={sush,roops,dee};
+
+   String i=new String(students);
+
+   for(int i=0;i<=students.length-1;i--)
+   {
+      System.out.println("students in revese oredr");
+   }
+
+3. class String
+   {
+     public static void main(String[] args)
+    {
+      
+       String chnge="XworkZ OdC";
+       
+       change.declre;
+       declre=chnge.toUppercase();
+       
+       change.declre;
+       declre=chnge.toLowercase();
+
+      System.out.println(declre);
+   }
+}
+        
+
+
+
+
+   
